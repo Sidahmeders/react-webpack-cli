@@ -1,0 +1,18 @@
+
+.app {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+
+    h1 {
+        color: rgb(75, 156, 180);
+        font-size: 2.2em;
+    }
+    p{
+        color: rgb(231, 230, 230);
+        font-size: 1.4em;
+        padding-top: 5vh;
+    }
+}
