@@ -16,11 +16,12 @@ $ cd <your-project-name>
 $ npm install
 ```
 
-3) and happy coding..
+3) open [ http://localhost:3001/ ] 
 ```
 $ npm run dev    --for-developemnt
 $ npm run build  --for-production
 ```
+4) and happy coding...
 
 ## uninstall react-webpack-cli-godofwar
 ```
