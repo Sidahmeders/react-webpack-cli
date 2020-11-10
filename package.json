@@ -1,5 +1,5 @@
 {
-  "name": "react-webpack-cli",
+  "name": "react-webpack-cli-godofwar",
   "version": "1.0.0",
   "description": "a light weight react setup with webpack",
   "main": "index.js",
@@ -11,5 +11,5 @@
   },
   "keywords": [],
   "author": "Sodium United",
-  "license": "ISC"
+  "license": "MIT"
 }
