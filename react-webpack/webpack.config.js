@@ -21,7 +21,8 @@ const config = {
     devServer: {
         port: 3001,
         contentBase: path.resolve(__dirname, 'dist'),
-        hot: true
+        hot: true,
+        historyApiFallback: true
     },
     // ~~~Webpack-Plugins~~~
     plugins: [
