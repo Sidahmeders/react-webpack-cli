@@ -66,6 +66,14 @@ const config = {
                     'css-loader',
                     'sass-loader'
                 ]
+            },
+            {
+                test: /\.(png|jpe?g|gif|svgz|jpeg)$/i,
+                use: [
+                    {
+                    loader: 'file-loader',
+                    }
+                ]
             }
         ]
     }
